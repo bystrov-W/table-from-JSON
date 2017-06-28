@@ -8,7 +8,7 @@
 <?php
 $text= file_get_contents("1.json");
 $json = json_decode($text);
-//echo $text ;
+
 foreach ($json->people as $obj):
 ?>
 
