@@ -1,0 +1,38 @@
+<style>
+    table { 
+        border-spacing: 10;
+        border-collapse: collapse;
+	
+	  }
+    table td {
+        border: 2px solid #ccc;
+        padding: 15px;
+  		 }
+        th {
+        border: 2px solid #ccc; }
+    table, th {background: #4682B4;}
+    td {background: #eee;}
+	
+    table { 
+        border-spacing: 10;
+        border-collapse: collapse;
+		
+
+caption {
+caption-side: bottom;
+text-align: right;
+padding: 10px 0; 
+font-size: 14px;
+}
+
+caption {
+caption-side: bottom;
+text-align: right;
+padding: 10px 0; 
+font-size: 14px;
+}
+
+
+
+
+</style>
